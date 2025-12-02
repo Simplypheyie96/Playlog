@@ -1,11 +1,4 @@
 
-  # Responsive Leaderboard Web App
+  # Playlog
 
-  This is a code bundle for Responsive Leaderboard Web App. The original project is available at https://www.figma.com/design/hcUYgTnnCAJuv6Eqg83Clp/Responsive-Leaderboard-Web-App.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+  A mobile leaderboard app built for fun to help my family track and celebrate our board game wins at home.
